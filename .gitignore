@@ -1,3 +1,6 @@
-vs
 packages
 TestResults
+bin
+Lab3Tests/bin
+Lab3Tests/obj
+.vs
